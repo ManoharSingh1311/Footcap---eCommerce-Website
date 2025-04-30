@@ -1,54 +1,51 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/footcap)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/footcap?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/footcap?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BsmRYjW4csw?style=social)](https://youtu.be/BsmRYjW4csw)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/manohar-singh/ecommerce-website)
+  ![GitHub stars](https://img.shields.io/github/stars/manohar-singh/ecommerce-website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/manohar-singh/ecommerce-website?style=social)
 
   <br />
   <br />
 
-  <h2 align="center">Footcap - eCommerce website</h2>
+  <h2 align="center">E-Commerce Website - Responsive Design</h2>
 
-  Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  This is a fully responsive e-commerce website project, <br />designed for all devices using HTML, CSS, JavaScript, and APIs.
 
-  <a href="https://codewithsadee.github.io/footcap/"><strong>➥ Live Demo</strong></a>
+  <strong>➥ Live Demo Coming Soon</strong>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### 📸 Demo Screenshot
 
-![Footcap Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![E-Commerce Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+### 🚀 Features
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- Responsive design for all screen sizes (mobile/tablet/desktop)
+- Interactive UI with JavaScript
+- Shopping cart functionality
+- Modular HTML with reusable components
+- Simple structure for learning and extension
 
-### Run Locally
+---
 
-To run **Footcap** locally, run this command on your git bash:
+### 🧰 Prerequisites
 
-Linux and macOS:
+Before you begin, make sure you have:
 
+* [Git](https://git-scm.com/downloads) installed on your system
+* A code editor like [VS Code](https://code.visualstudio.com/)
+
+---
+
+### 💻 Run Locally
+
+Clone the project and open in browser:
+
+Linux/macOS:
 ```bash
-sudo git clone https://github.com/codewithsadee/footcap.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/footcap.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+git clone https://github.com/manohar-singh/ecommerce-website.git
