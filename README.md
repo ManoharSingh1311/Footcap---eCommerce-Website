@@ -1,8 +1,11 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/manohar-singh/ecommerce-website)
-  ![GitHub stars](https://img.shields.io/github/stars/manohar-singh/ecommerce-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/manohar-singh/ecommerce-website?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ManoharSingh1311/ecommerce-website)
+  ![GitHub stars](https://img.shields.io/github/stars/ManoharSingh1311/ecommerce-website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ManoharSingh1311/ecommerce-website?style=social)
+  [![Instagram](https://img.shields.io/badge/Instagram-___.manohar._____-pink?style=social&logo=instagram)](https://www.instagram.com/___.manohar._____/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manohar%20Singh-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/manohar-singh-a50390222/)
+  [![GitHub](https://img.shields.io/badge/GitHub-ManoharSingh1311-black?style=social&logo=github)](https://github.com/ManoharSingh1311)
 
   <br />
   <br />
@@ -48,4 +51,4 @@ Clone the project and open in browser:
 
 Linux/macOS:
 ```bash
-git clone https://github.com/manohar-singh/ecommerce-website.git
+git clone https://github.com/ManoharSingh1311/ecommerce-website.git
